@@ -15,11 +15,16 @@
 
 ### 🔗 Connect with me
 
+
 <p align="left">
-  <a href="www.linkedin.com/in/sashank12" target="www.linkedin.com/in/sashank12">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/sashank12" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="#" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
