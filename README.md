@@ -1,0 +1,61 @@
+<h1 align="center">Hi 👋, I'm B Sashank</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sashank206&label=Profile%20views&color=0e75b6&style=flat" alt="Sashank206" />
+</p>
+
+---
+
+- 🌱 I'm currently learning **Java, Tailwind CSS, PHP**
+- 🤝 I'm looking to collaborate on **Live Projects, Internships**
+- 📫 Reach me at: **[durgaramsashank2006@gmail.com](mailto:durgaramsashank2006@gmail.com)**
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="www.linkedin.com/in/sashank12" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL/SQL"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Sashank206&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sashank206&show_icons=true&locale=en" alt="Sashank206 stats" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sashank206&" alt="Sashank206 streak" />
+</p>
