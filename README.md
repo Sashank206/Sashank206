@@ -16,7 +16,7 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/sashank12" target="blank">
+  <a href="www.linkedin.com/in/sashank12" target="www.linkedin.com/in/sashank12">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
