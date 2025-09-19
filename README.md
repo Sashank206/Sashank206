@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I'm currently learning **Java, Tailwind CSS, PHP**
+- 🌱 I'm currently learning **React js , MongoDB**
 - 🤝 I'm looking to collaborate on **Live Projects, Internships**
 - 📫 Reach me at: **[durgaramsashank2006@gmail.com](mailto:durgaramsashank2006@gmail.com)**
 
