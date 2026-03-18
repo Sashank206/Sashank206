@@ -23,7 +23,7 @@
   <a href="#" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  <a href="https://sashank206.github.io/portfolio/">
+  <a href="https://sashankportfolio.vercel.app/">
     <img align="center" src="https://cdn-icons-png.flaticon.com/128/6261/6261582.png" alt="Portfolio" height="30" width="40" />
 </p>
 
